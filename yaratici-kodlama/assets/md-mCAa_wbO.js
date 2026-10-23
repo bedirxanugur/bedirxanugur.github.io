@@ -1,0 +1,8 @@
+import{E as e,Q as t,_ as n,_t as r,v as i,x as a,yt as o,z as s}from"./modules/shiki-Bq-puRM0.js";import{ht as c,nt as l,tt as u}from"./index-PggeCX7A.js";import{t as d}from"./slidev/default-Dc8bzg3J.js";var f=c({__name:`03-p5-temeller.md__slidev_15`,setup(c){let{$slidev:f,$nav:p,$clicksContext:m,$clicks:h,$page:g,$renderContext:_,$frontmatter:v}=l();return m.setup(),(c,l)=>(s(),i(d,o(e(r(u)(r(v),14))),{default:t(()=>[...l[0]||=[n(`h1`,null,`Yorum Satırları`,-1),n(`div`,{class:`yorum-kicker`},[a(`Program bu satırları çalıştırmaz.`),n(`br`),a(`Kodun ne yaptığını açıklamak ve not için kullanışlıdırlar.`)],-1),n(`div`,{class:`yorum-grid`},[n(`div`,{class:`yorum-card`},[n(`div`,{class:`yorum-label`},`Tek satır`),n(`div`,{class:`yorum-mark`},`//`),n(`pre`,{class:`yorum-code`},[n(`span`,{class:`cm`},`// Bu tek satırlık bir yorumdur`),a(`
+
+line(x1, y1, x2, y2); `),n(`span`,{class:`cm`},`// bu kısım da çalışmaz`)]),n(`p`,{class:`yorum-note`},[a(`İki eğik çizgi yan yana.`),n(`br`),a(`Satırın geri kalanı yok sayılır.`)])]),n(`div`,{class:`yorum-card`},[n(`div`,{class:`yorum-label`},`Çok satır`),n(`div`,{class:`yorum-mark`},`/* */`),n(`pre`,{class:`yorum-code`},[n(`span`,{class:`cm`},`/*
+Bu çok satırlık
+bir yorumdur
+*/`),a(`
+
+`),n(`span`,{class:`cm`},`/* beyaz */`),a(` rect(20, 20, 60, 40);`)]),n(`p`,{class:`yorum-note`},[n(`code`,null,`/*`),a(` ile açılır, `),n(`code`,null,`*/`),a(` ile kapanır. Kapanınca aynı satırda kod devam edebilir.`)])])],-1)]]),_:1},16))}},[[`__scopeId`,`data-v-4bb1e3ef`]]);export{f as default};
