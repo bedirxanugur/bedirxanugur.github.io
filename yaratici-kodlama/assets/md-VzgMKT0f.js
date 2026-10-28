@@ -1,7 +1,0 @@
-import{E as e,Q as t,_ as n,_t as r,v as i,x as a,yt as o,z as s}from"./modules/shiki-Bq-puRM0.js";import{nt as c,tt as l}from"./index-BrTMICjJ.js";import{t as u}from"./slidev/default-BI8Rq-4x.js";var d={__name:`03-p5-temeller.md__slidev_23`,setup(d){let{$slidev:f,$nav:p,$clicksContext:m,$clicks:h,$page:g,$renderContext:_,$frontmatter:v}=c();return m.setup(),(c,d)=>(s(),i(u,o(e(r(l)(r(v),22))),{default:t(()=>[...d[0]||=[n(`h1`,null,`Sistem Değişkenleri`,-1),n(`div`,{class:`fn-kicker`},`Kendi değişkenin değil; p5’nin sürekli güncellediği değerler.`,-1),n(`div`,{class:`fn-grid fn-split`},[n(`div`,{class:`fn-code-wrap`},[n(`div`,{class:`fn-label`},`width - height`),n(`div`,{class:`fn-code-well`},[n(`pre`,{class:`fn-code`},[n(`span`,{class:`fn-nm`},`width`),a(`
-`),n(`span`,{class:`fn-nm`},`height`),a(`
-
-`),n(`span`,{class:`fn-cm`},`// tuvalin genişliği - yüksekliği`)])])]),n(`div`,{class:`fn-code-wrap`},[n(`div`,{class:`fn-label`},`mouseX - mouseY`),n(`div`,{class:`fn-code-well`},[n(`pre`,{class:`fn-code`},[n(`span`,{class:`fn-nm`},`mouseX`),a(`
-`),n(`span`,{class:`fn-nm`},`mouseY`),a(`
-
-`),n(`span`,{class:`fn-cm`},`// anlık yatay - dikey fare konumu`)])])])],-1)]]),_:1},16))}};export{d as default};
